@@ -1,7 +1,7 @@
-# utility.bat
+# 📟 utility.bat
 utility.bat is a Batch script that contains commands to fix common issues on Windows.
 
-## How to run it
+## 🖥️ How to run it
 
 You have two options for running the script, both of which work the same way.
 
@@ -13,7 +13,7 @@ You have two options for running the script, both of which work the same way.
 
 This command downloads the script to the temporary folder and executes it.
 
-## What does each option do?
+## ❓ What does each option do?
 
 1. Check system files integrity
 
@@ -52,7 +52,7 @@ Creates a system battery report showing the original capacity and the current ca
 
 Execute commands 1 through 5, appropriate if you are performing maintenance on your system or trying to troubleshoot a problem.
 
-## Is this script secure?
+## 🔒 Is this script secure?
 
 Nothing is certain, and if you are trying to fix a problem I can't guarantee that it will be fixed or that it won't get worse.
 
